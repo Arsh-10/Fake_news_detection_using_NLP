@@ -1,0 +1,4 @@
+Binary classification to distinguish fake news from real news
+
+"Fake.csv" & "True.csv" are two dataset files
+""Fake_news_detection.iypnb" -> is the model files trained using nlp
